@@ -1,0 +1,16 @@
+{
+    "name": "rangz",
+    "version": "0.0.3",
+    "description": "A beautifully overloaded range function, allowing for resounding functionality. Uses lazy evaluation for inifinte ranges.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["range", "numbers", "util"],
+    "author": "N8Programs",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/N8python/Rangz.git"
+    },
+    "license": "MIT"
+}
